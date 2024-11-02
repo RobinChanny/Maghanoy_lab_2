@@ -53,7 +53,6 @@ export default function ProfileScreen() {
         </TouchableOpacity>
       </View>
 
-      {/* Version Info */}
       <View style={styles.version}>
         <Text>Version 192.168.10.254</Text>
       </View>
